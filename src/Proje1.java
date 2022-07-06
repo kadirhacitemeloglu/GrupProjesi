@@ -7,5 +7,6 @@ public class Proje1 {
 
         System.out.println("OGUZHAN UGURLU");
 
+
     }
 }
