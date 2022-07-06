@@ -2,8 +2,7 @@ public class Proje1 {
     public static void main(String[] args) {
         System.out.println("Merhaba");
         System.out.println("Merhaba 2");
-
-        System.out.println("Merhaba grup 15");
+        System.out.println("Nurhayat'tan Grup 15'e selam");
 
     }
 }
