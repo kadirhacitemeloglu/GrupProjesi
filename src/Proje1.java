@@ -5,5 +5,7 @@ public class Proje1 {
 
         System.out.println("MErhaba OGUZHAN");
 
+        System.out.println("OGUZHAN UGURLU");
+
     }
 }
